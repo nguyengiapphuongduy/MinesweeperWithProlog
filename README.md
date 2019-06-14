@@ -1,4 +1,4 @@
-#BTL3 (Optional) 20%
+# BTL3 (Optional) 20%
 
 Sử dụng PROLOG viết chương trình tự động suy diễn để giải game minesweeper:
 	- Kích thước bàn cờ: 16x30, 99 quả mìn
